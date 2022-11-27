@@ -19,7 +19,7 @@ def pregunta_01():
 
     # Asigne la columna "life" a `y` y la columna "fertility" a `X`
     y = np.array(df["life"])
-    X = np.array(df["fertility"]
+    X = np.array(df["fertility"])
 
     # Imprima las dimensiones de `y`
     print(y.shape)
